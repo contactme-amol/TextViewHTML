@@ -12,6 +12,7 @@
 		3C466C2F22F59E1500C9D907 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C466C2D22F59E1500C9D907 /* Main.storyboard */; };
 		3C466C3122F59E1800C9D907 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C466C3022F59E1800C9D907 /* Assets.xcassets */; };
 		3C466C3422F59E1800C9D907 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C466C3222F59E1800C9D907 /* LaunchScreen.storyboard */; };
+		3C466C3C22F59F8E00C9D907 /* json.geojson in Resources */ = {isa = PBXBuildFile; fileRef = 3C466C3B22F59F8D00C9D907 /* json.geojson */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3C466C3022F59E1800C9D907 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C466C3322F59E1800C9D907 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C466C3522F59E1800C9D907 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C466C3B22F59F8D00C9D907 /* json.geojson */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = json.geojson; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		3C466C2822F59E1500C9D907 /* TextViewDemo */ = {
 			isa = PBXGroup;
 			children = (
+				3C466C3B22F59F8D00C9D907 /* json.geojson */,
 				3C466C2922F59E1500C9D907 /* AppDelegate.swift */,
 				3C466C2B22F59E1500C9D907 /* ViewController.swift */,
 				3C466C2D22F59E1500C9D907 /* Main.storyboard */,
@@ -92,7 +95,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
-				ORGANIZATIONNAME = "FIGmd Inc";
+				ORGANIZATIONNAME = POC;
 				TargetAttributes = {
 					3C466C2522F59E1500C9D907 = {
 						CreatedOnToolsVersion = 10.1;
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3C466C3422F59E1800C9D907 /* LaunchScreen.storyboard in Resources */,
+				3C466C3C22F59F8E00C9D907 /* json.geojson in Resources */,
 				3C466C3122F59E1800C9D907 /* Assets.xcassets in Resources */,
 				3C466C2F22F59E1500C9D907 /* Main.storyboard in Resources */,
 			);

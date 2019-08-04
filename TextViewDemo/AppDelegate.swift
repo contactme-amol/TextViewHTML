@@ -3,7 +3,7 @@
 //  TextViewDemo
 //
 //  Created by Amol Chaudhari on 03/08/19.
-//  Copyright © 2019 FIGmd Inc. All rights reserved.
+//  Copyright © 2019 POC. All rights reserved.
 //
 
 import UIKit
